@@ -1,0 +1,51 @@
+body{
+    background-color: blueviolet;
+    background-image:url('D:\timer.jpg');
+}
+.container
+{
+    width: 600px;
+    height: 500px;
+    margin-left: 480px;
+    margin-top: 90px;
+    background-color:hsla(107, 89%, 28%, 0.9);
+    background-image: url('D:\nature.jpg' );width: 600px;height: 500px;
+    border-color: rgb(255, 157, 0);border-radius: 100px;border-style: solid;border-width: 4px;
+    
+}
+#id1{margin-left: 250px;
+    padding-top: 230px;
+    color:white;
+    
+    font-size: 25px;
+    
+
+    
+}
+#id2{margin-left:200px;
+padding-bottom: 170px;
+border-radius: 50%;
+position:fixed;
+}
+.c1{color:white;}
+#startBtn{
+    border-radius: 20%;
+    background-color: chocolate;
+    width:70px; 
+    height: 30px;
+}
+#stopBtn{
+    border-radius: 20%;
+    background-color: chocolate;
+    width:70px; 
+    height: 30px;
+
+}
+
+
+#resetBtn{
+    border-radius: 20%;
+    background-color: chocolate;
+    width:70px; 
+    height: 30px;
+}
